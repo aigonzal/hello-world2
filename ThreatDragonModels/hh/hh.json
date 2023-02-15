@@ -8,11 +8,16 @@
     "contributors": [],
     "diagrams": [
       {
+        "cells": [],
+        "version": "2.0.0",
         "title": "first",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
       }
     ],
-    "reviewer": "hh"
-  }
+    "reviewer": "hh",
+    "diagramTop": 10,
+    "threatTop": 100
+  },
+  "version": "2.0.0"
 }
