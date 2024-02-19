@@ -11,6 +11,26 @@
         "cells": [
           {
             "position": {
+              "x": 340.0000000000002,
+              "y": 50.00000000000125
+            },
+            "size": {
+              "width": 500,
+              "height": 290
+            },
+            "shape": "trust-boundary-box",
+            "id": "9fd3a15d-c847-4ee1-8144-d14f593ace8f",
+            "zIndex": -1,
+            "data": {
+              "type": "tm.BoundaryBox",
+              "name": "Trust Boundary",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            }
+          },
+          {
+            "position": {
               "x": 670,
               "y": 770
             },
@@ -359,8 +379,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "d41cadf8-8afc-4260-a916-ce4a06502576",
             "zIndex": 11,
+            "id": "d41cadf8-8afc-4260-a916-ce4a06502576",
             "data": {
               "type": "tm.Process",
               "name": "Process",
@@ -393,8 +413,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "9625b25a-630b-46ef-9550-c8b763592159",
             "zIndex": 12,
+            "id": "9625b25a-630b-46ef-9550-c8b763592159",
             "data": {
               "type": "tm.Actor",
               "name": "Actor",
@@ -427,8 +447,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "5091f1d3-d129-4ef9-beaa-92cff2dcd436",
             "zIndex": 13,
+            "id": "5091f1d3-d129-4ef9-beaa-92cff2dcd436",
             "data": {
               "type": "tm.Store",
               "name": "Store",
